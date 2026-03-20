@@ -1,3 +1,7 @@
+// Source: https://gist.github.com/ahmadnafi30/3140da51f247992e5a3045a6986ee607 
+// Original author: @ahmadnafi30
+// Modified for lab practicum purposes
+
 #include <dirent.h>
 #include <stdio.h>
 #include <stdlib.h>

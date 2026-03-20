@@ -1,4 +1,8 @@
-#include <stdio.h>
+// Source: https://gist.github.com/ahmadnafi30/2b5b6f3fdf32e3a92859f42b03a19af1
+// Original author: @ahmadnafi30
+// Modified for lab practicum purposes
+
+include <stdio.h>
 #include <stdlib.h>
 
 int main() {
