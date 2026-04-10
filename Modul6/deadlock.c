@@ -1,7 +1,6 @@
 // Source: https://gist.github.com/ahmadnafi30/b3a6d54d3376407cbba64a604718bb04
 // Original author: @ahmadnafi30
 // Modified for lab practicum purposes
-
 #include<stdio.h>
 #include<stdlib.h>
 
